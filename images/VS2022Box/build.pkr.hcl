@@ -13,7 +13,7 @@ source "azure-arm" "vm" {
   skip_create_image                = false
   user_assigned_managed_identities = var.identities # optional
   async_resourcegroup_delete       = true
-  vm_size                          = "Standard_D8_v5" # default is Standard_A1
+  vm_size                          = "Standard_D8s_v5" # default is Standard_A1
   # winrm options
   communicator   = "winrm"
   winrm_username = "packer"

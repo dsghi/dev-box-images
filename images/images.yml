@@ -1,4 +1,5 @@
 builder: azure
+publisher: Ignite SG
 replicaLocations:
  - westus3
 buildResourceGroup: DevBoxImages
