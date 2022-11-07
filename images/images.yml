@@ -1,2 +1,4 @@
 builder: azure
+replicaLocations:
+ - westus3
 buildResourceGroup: DevBoxImages
