@@ -1,2 +1,2 @@
-builder: packer
+builder: azure
 buildResourceGroup: DevBoxImages
