@@ -1,8 +1,2 @@
 builder: azure
-publisher: Contoso
-offer: DevBox
-replicaLocations:
- - westus3
 buildResourceGroup: DevBoxImages
-virtualNetworkResourceGroup: DevBoxImages
-subscription: 3cc970f4-a211-4e96-8439-32cb06325754
