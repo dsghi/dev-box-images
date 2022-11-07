@@ -4,7 +4,5 @@ offer: DevBox
 replicaLocations:
  - westus3
 buildResourceGroup: DevBoxImages
-virtualNetwork: ignite-images-vnet
-virtualNetworkSubnet: default
 virtualNetworkResourceGroup: DevBoxImages
 subscription: 3cc970f4-a211-4e96-8439-32cb06325754
